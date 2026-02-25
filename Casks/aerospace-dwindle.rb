@@ -1,6 +1,6 @@
 cask "aerospace-dwindle" do
-  version "0.1.0"
-  sha256 "d19ee0aba31a1826c71a37c7bef30e2c61d8c6009b3aa51710db1396a3a2a1ec"
+  version "0.1.1"
+  sha256 "38fcd59b5726cae365ce7a89ec531cbea033476b03a982916e7bb22df91dd966"
 
   url "https://github.com/andres-valdes/AeroSpace/releases/download/v#{version}/AeroSpace-v#{version}.zip"
   name "AeroSpace (Dwindle Fork)"
